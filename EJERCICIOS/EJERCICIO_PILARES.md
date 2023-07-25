@@ -1,6 +1,9 @@
 ![image](https://user-images.githubusercontent.com/91554777/235196884-6cfb1909-3699-4c0f-ad0f-09ff27471105.png)
 
-https://www.db-fiddle.com/f/nRP4p11x1DWBWkbqq9RcFi/0
+https://www.db-fiddle.com/f/nRP4p11x1DWBWkbqq9RcFi/0 (Creación de tabla)
+https://www.db-fiddle.com/f/nRP4p11x1DWBWkbqq9RcFi/2 (Estructura de tabla)
+https://www.db-fiddle.com/f/nRP4p11x1DWBWkbqq9RcFi/3 (Uso ALTER & DROP)
+
 
 ![image](https://user-images.githubusercontent.com/91554777/235502032-0d8f2296-5816-422b-93b5-be9def027bad.png)
 
