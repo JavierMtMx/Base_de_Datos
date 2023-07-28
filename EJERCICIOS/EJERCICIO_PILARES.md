@@ -12,7 +12,7 @@ https://www.db-fiddle.com/f/nRP4p11x1DWBWkbqq9RcFi/4 (Uso INSERT INTO & SELECT F
 
 https://www.db-fiddle.com/f/nRP4p11x1DWBWkbqq9RcFi/5 (Con datos de mockaroo.com) 
 
-https://www.db-fiddle.com/f/nRP4p11x1DWBWkbqq9RcFi/6 (Carga de datos de las siguientes tablas)
+https://www.db-fiddle.com/f/nRP4p11x1DWBWkbqq9RcFi/7 (Carga de datos de las siguientes tablas)
 
 
 ![image](https://user-images.githubusercontent.com/91554777/235502032-0d8f2296-5816-422b-93b5-be9def027bad.png)
