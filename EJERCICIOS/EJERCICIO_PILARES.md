@@ -14,6 +14,9 @@ https://www.db-fiddle.com/f/nRP4p11x1DWBWkbqq9RcFi/5 (Con datos de mockaroo.com)
 
 https://www.db-fiddle.com/f/nRP4p11x1DWBWkbqq9RcFi/7 (Carga de datos de las siguientes tablas)
 
+https://www.db-fiddle.com/f/nRP4p11x1DWBWkbqq9RcFi/8 (Base de datos completa)
+
+https://www.db-fiddle.com/f/3wDkVaj1mfJ2UaSrdq47Ey/0 (Base de datos completa Profe)
 
 ![image](https://user-images.githubusercontent.com/91554777/235502032-0d8f2296-5816-422b-93b5-be9def027bad.png)
 
